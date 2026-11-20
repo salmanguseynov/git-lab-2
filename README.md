@@ -4,3 +4,4 @@
 
 Комплексная работа по Git.
 Draft documentation
+Incorrect project description
